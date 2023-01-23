@@ -14,7 +14,7 @@ const secondsEl = document.querySelector('[data-seconds]');
 startBtn.disabled = true;
 startBtn.addEventListener('click', startTimer);
 
-let endDay;
+let endDate;
 
 const options = {
   enableTime: true,
