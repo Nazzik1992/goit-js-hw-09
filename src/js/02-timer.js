@@ -83,4 +83,4 @@ daysEl.textContent = days;
 hoursEl.textContent = hours;
 minutesEl.textContent = minutes;
 secondsEl.textContent = seconds; 
-}
+};
